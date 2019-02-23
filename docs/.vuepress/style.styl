@@ -1,0 +1,63 @@
+$accentColor = #710FDE
+
+body
+    font-size: 18px;
+    @media (max-width: 719px)
+        font-size: 16px;
+
+
+/* Headings */
+h1, h2, h3, h4, h5
+    font-weight: 400
+
+
+em
+    color: $accentColor
+
+/* Hero */
+.home .hero h1
+    margin-bottom 0
+
+.home .hero img
+    max-height: 100px
+    margin: 7rem auto 1.5rem
+
+.home .hero .description
+    margin: 0.5rem auto 3rem
+
+.home .features
+    border-top: none
+
+.home .hero .action-button
+    border-radius: 50px;
+    padding: 0.5rem 2rem
+    text-transform uppercase
+    font-weight 400
+
+    &:hover
+        text-decoration: none 
+
+
+
+.wide-container .content:not(.custom)
+    max-width: 1170px
+
+.nav-item a:hover
+    text-decoration: none
+
+
+/* Table */
+tr,
+th,
+td
+    border: none
+
+.uk-table-hover tbody tr:hover,
+.uk-table-hover>tr:hover
+    background: #f7f7f7
+
+tr:nth-child(2n)
+    background-color: #fff
+
+
+
