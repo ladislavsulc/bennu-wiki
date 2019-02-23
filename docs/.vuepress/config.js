@@ -11,8 +11,9 @@ module.exports = {
 	ga: '',
     themeConfig: {
         nav: [
-          { text: 'Home', position: 'left', link: '/' },
-          { text: 'Bashar', position: 'left', link: '/bashar/' },
+          { text: 'Home', link: '/' },
+          { text: 'Bashar', link: '/bashar/' },
+          { text: 'Abraham', link: '/abraham-hicks/' },
           { text: 'Bennu.cz', link: 'https://www.bennu.cz' },
         ],
         sidebar: 'auto'

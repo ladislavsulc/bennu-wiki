@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /bennu-wiki-logo.svg
-actionText: Prohlédnout →
+actionText: Prohlédnout
 actionLink: /bashar/
 features:
 - title: Simplicity First

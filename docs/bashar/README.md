@@ -1,6 +1,10 @@
+---
+sidebarDepth: 0
+---
+
 # Ústřední koncepty Bashara
 
-## Bashar: Jak získat realitu, kterou si přejeme
+## Jak získat realitu, kterou si přejeme
 
 Rádio nemusí vytvářet program, který si přeje slyšet. Jen se musí naladit na ten, co již existuje. Tím, že se synchronizuje s frekvencemi, činí ze sebe účinný přijímač - podobný ve vibracích onomu signálu - tedy programu, který si přeje přijímat.
 
@@ -19,7 +23,7 @@ Podobně je tomu u člověka, existuje nekonečně mnoho možných realit, kter�
 
 **Volíme si a přijímáme je tím, že 100% věříme tomu, "o čem jsme přesvědčení, že tak jest".**
 
-## Bashar: Fyzika manifestace, jak to vlastně funguje?
+## Fyzika manifestace, jak to vlastně funguje?
 
 Stejně jako rádio musí nejprve vibrovat na určité frekvenci proto, aby mohlo přijímat jedno konkrétní vysílání (ze všech možných simultánních vysílání), podobně je tomu u člověka.
 
@@ -29,7 +33,7 @@ Představte si univerzální matrix, matici nekonečného množství potencioná
 
 **Každé přesvědčení je tedy unikátní soubor frekvencí, které jako šablona určují, který hologram (*realitu*) si přitáhnete do svojí zkušenosti.**
 
-## Bashar: Vše je hologram
+## Vše je hologram
 
 Každá část hologramu obsahuje informaci k celku - tedy obraz celého programu. Vesmír je strukturován holograficky a i vy jste holografičtí. Stejně tak i každá *verze* vaší reality. Uvnitř sebe máte **všechny** možné verze reality.
 
@@ -45,7 +49,7 @@ Uveďme si názorný příklad.
 
 Představte si váš počítač. Ten nabízí mnoho možností a jediné, co musíte udělat, je na jednu z nich kliknout a zvolit si ji. Vaše **představivost** tvoří souhrn všech nabízených možností na vaší obrazovce. Pohyb myší směrem k žádoucí volbě je jako se pomocí představivosti *soustředit* na jednu konkrétní vizi. Kliknutí na onu volbu pak reprezentuje použití vašich **pocitů** - tím aktivujete onen výběr.
 
-## Bashar: Jak naše přesvědčení formují naší realitu
+## Jak naše přesvědčení formují naší realitu
 
 Většina z vás byla vychována v domnění, že to, co vidíme kolem sebe, je neměnná realita. Od ní se pak odráží vaše přesvědčení. Tvrzení, že "to, co vnímáme, determinuje naší realitu", ale nemůže být dále od pravdy.
 
@@ -74,3 +78,132 @@ Stejně jako televize, ani rádio nevytváří program, který vysílá. Prostě
 Jakmile toto pochopíte na úrovni bytí, vědomí, budete mnohem jednodušeji tvořit/volit/umožňovat ty verze reality, které si přejete zažít.
 
 > Realitu, kterou chcete zažít tedy nemusíte tvořit. Již existuje, děje se právě TEĎ - v určité paralelní dimenzi. Jediné, co musíte udělat, je, si ji *vybrat* a umožnit jí *přijít*.
+
+## 3 kroky pro získání té verze reality, kterou preferujeme
+
+### Představte si to (mentální rovina)
+
+Vizualizujte si to. Představte si to. Sněte o tom během dne. Nemusíte si to vizualizovat dlouhou dobu. Krátce stačí, ale musí to být **jasná a zřejmá vizualizace**. Je potřeba mít jasný obraz. Ten pak vytvoří šablonu – představujte si to tedy do podrobných detailů.
+
+**Představte si „to“** a staňte se účinnou psychickou _anténou_ pro přijetí vám preferované reality.
+
+### Naciťte se na to (emocionální rovina)
+
+Nadchněte se a buďte o tom či onom vášniví. Jak byste se cítili, kdybyste to měli NYNÍ? Vciťte se do toho právě teď! Propojte se svou vizí všechny vaše emoce a smysly, jakobyste to měli již nyní! Zahrňte do toho všechny svoje smysly jako dotek, chuť apod.
+
+**Naciťte se na to** a staňte se účinnou emoční _anténou_ pro přijetí vámi preferované reality.
+
+### Staňte se tím (fyzická rovina)
+
+Rozumí se tím fyzická akce. Udělejte to! Uzemníte tím onu zkušenost. Dělejte takové věci, které jsou co nejblíže tomu, co se „vidíte“ dělat ve vašich vizích. Použijte veškeré prostředky na onu simulaci a vyzkoušejte si to _nanečisto_. Tím, že tak učiníte, budete tím trénovat své vědomí. Nasimulujete tím onu „skutečnost“ v přítomný okamžik a Vesmír vám ji následně „doručí“.
+
+Poznámka: fyzická akce není přímou příčinou manifestace. **Místo toho ve vás způsobuje jasnější vibraci a soulad s ní – stáváte se tak lepším přijímačem pro přijetí vámi preferované reality.** Realita, kterou si přejete, již existuje. Nemusíte ji vytvářet. Stačí ji pouze přijmout.
+
+**Staňte se tím** a bude z vás účinná fyzická _anténa_ pro přijetí toho, co si přejete.
+
+Shrnuto,
+
+1. Představte si to -> staňte se účinnou psychickou _anténou_ pro přijetí vám preferované reality.
+2. Naciťte se na to -> staňte se účinnou emoční _anténou_ pro přijetí vámi preferované reality.
+3. Staňte se tím -> bude z vás účinná fyzická _anténa_ pro přijetí vámi preferované reality.
+
+## Ve skutečnosti *již* máte vše, po čem toužíte
+
+Všechny možné verze reality již existují zároveň a jsou *skutečné*. I vy v sobě už obsahujete VŠE. Máte tedy *k dispozici* cokoli, po čem toužíte nebo byste toužit mohli. Už je to ve vás. Byli jste obdařeni vším, co byste si mohli přát. "Jen" to zatím pro vás nemusí být *viditelné* (respektive reálné).
+
+Stvoření existuje v přítomném okamžiku mimo čas v jeden nekonečný moment - TEĎ. Pokud tedy věříte, že jednoho krásného dne "něco" získáte, věřte, že to již *máte*. Vše totiž existuje NYNÍ ve stavu vidtelnosti či neviditelnosti. 
+
+Záleží na vaší frekvenci (vibraci), která je závislá na vašich **přesvědčeních** o tom, co je reálné.
+
+Není třeba, abyste se modlili nebo si přáli něco **získat.** Je to přímo před vámi. Ve skutečnosti si přejete, abyste byli schopni **vidět**, že je to již ve vaší realitě. Když totiž dokážete *vidět*, že *to* již máte, pak se vaše vibrace **sladí** s vibrací vašeho přání. Jakmile se tak stane, není jiná možnost, než, že se vaše přání zhmotní.
+
+Vše je energie. Takto funguje fyzika v tomto vesmíru - vašemu přání musí být učiněno za dost. Nalaďte se na frekvenci vašeho přání (*pozn. redakce: pocit, jako by bylo již zde*) a uvidíte, že to již bylo "vždy zde", pouze to čekalo na vás, až si toho všimnete a začnete si to užívat.
+
+## 2 techniky pro manifestaci vámi preferované reality
+
+### První technika
+
+1. Mějte jasnou **vizi** nebo **záměr**, jak chcete, aby váš život vypadal.
+2. Jelikož existujete, automaticky si tak **zasloužíte** vše, co si přejete.
+   - V souladu s tím se ujistěte, že se cítíte této preferované reality **hodni**.
+3. Jaká **přesvědčení** by měl člověk, který **již** tuto realitu zažívá?
+4. Přijměte tato **přesvědčení** za svá.
+5. Pokud nastanou události, které jsou v rozporu s těmito přesvědčeními nebo na povrch vyplují přesvědčení, která jsou v rozporu s těmi nedávno přijatými, pak:
+   - Nepředstírejte, že tomu tak není. **Uznejte a přijměte tato oslabující přesvědčení**. (To, co "nevlastníte", nemůžete změnit.)
+   - Uvědomte si, že tato oslabující a vámi nově přijatá přesvědčení jsou si **rovna**, shodně platná - a oboje jsou vaší součástí.
+   - Na základě tohoto uvědomění si jednoduše zvolte ***vyjádřit*** vámi preferovaná **přesvědčení.**
+   - Protože již obsahujete VŠECHNA přesvědčení vůbec, nepotřebujete se "zbavit" těch přesvědčení, po kterých netoužíte. Pouze se ***rozhodněte*** pro ta preferovaná.
+6. **Naciťte** se na to, jak by se cítil člověk, který již tuto preferovanou realitu zažívá.
+7. **Myslete** jako někdo, kdo již tuto preferovanou realitu žije.
+8. **Jednejte** jako někdo, kdo již tuto preferovanou realitu zažívá.
+
+### Druhá technika - "Referenční, preferované Já"
+
+1. Představte si své ideální nebo božské Já, svou nejlepší verzi.
+      - Pokud to pro vás bude problém, představte si vaši oblíbenou Božskou bytost.
+2. Nyní umístěte toto své "ideální Já" nebo tuto "Božskou bytost" do vámi preferované reality či situace.
+3. Pozorujte je, jak zde **jednají**, **cítí** nebo **přemýšlí**.
+4. Jednoduše toto chování **kopírujte**:
+      - **Pociťujte** to, co v dané situaci v oné preferované realitě ***cítí*** vaše "ideální Já" nebo ona "Božská bytost"
+      - **Přemýšlejte** stejně, jako v dané situaci v oné preferované realitě ***přemýšlí*** vaše "ideální Já" nebo ona "Božská bytost"
+      - **Jednejte** stejně, jako v dané situaci v oné preferované realitě ***jedná*** vaše "ideální Já" nebo ona "Božská bytost"
+
+Poznámka: Vaše představivost je "most" mezi vámi a vaším Vyšším Já. Tak s vámi promlouvá.
+
+## Jak efektivně vizualizovat to, co si přejeme manifestovat
+
+Fyzická mysl není navržena tak, aby věděla **JAK** se něco zrealizuje nebo, jak to **bude vypadat**, až se tak stane. Můžete *ji* ale využít k rozhodnutí o tom, **CO** si přejete.
+
+Vaše vizualizace je jednoduše symbolickou *reprezentací* **stavu bytí**, jehož cílem je u vás vytvořit **nadšení**. Nemusí se ale manifestovat ve stejné formě, jako ve vaší vizualizaci.
+
+### Krok 1
+
+Vizualizujte si co nejživěji to, co si přejete. Doslova se tím **nadchněte**.
+
+### Krok 2
+
+**PŘEDEJTE** tuto vizualizaci a tento radostný stav bytí svému **Vyššímu Já**.
+
+### Krok 3
+
+Pak ZCELA **zapomeňte** na svou potřebu, aby se vaše přání manifestovalo ve stejné podobě, jako v oné vizualizaci. ("Udržujte si" ale onen radostný stav bytí asociovaný s onou vizualizací)
+
+Řekněme tedy, že jste **nechali** onu vizualizaci **být** a **předali** ji spolu s oním radostným stavem bytí svému **Vyššímu Já**, které rozumí tomu, **JAK** se daná věc může zhmotnit.
+
+Tímto způsobem realizuje manifestaci, která koresponduje s vaším stavem blaženosti, jež jste pocítili, ale ve formě, která výrazně převyšuje původní přání vizualizace. Vaše Vyšší Já tedy dokáže stvořit něco mnohem lepšího, než si lidská mysl dokáže představit - a to výrazně!
+
+Nelimitujte jej tedy tím, že budete trvat na manifestaci vašeho přání přesně tak, jak jste si představovali.
+
+Nezapomeňte tedy - vizualizovat, procítit, "předat" Vyššímu Já a pak opustit potřebu, aby se to manifestovalo ve stejné formě, jako ve vaší představě.
+
+## Přesouvání se mezi paralelními realitami
+
+Existuje nekonečně mnoho verzí reality. Všechny tyto paralelní reality jsou si *rovné*, vy ale v každý moment zažíváte pouze jednu z nich.
+
+Přesun z jedné verze do té další není něco nepřirozeného nebo náročného, činíte tak stejně neustále - miliardkrát za sekundu. Není to tedy o tom, "jak to provést", ale spíše o *nasměrování se* do té paralelní reality, kterou si přejete. Představte si tento přesun mezi realitami jako film, který mění svoje obrázky 24krát za sekundu. Děje se to tak rychle, že to vytváří iluzi hladkého lineárního vývoje.
+
+Když se přesunete do jiné verze reality, stanete se "tím" já, jež zde již existovalo. Předchozí "já" ale nadále existuje a je stále "tam".
+
+Vše je totiž vědomím a vy jste zároveň vším.
+
+> Přesouvání se z jedné paralelní reality do druhé je jako, když "zavřete oči" v jedné verzi a "otevřete je" v té další.
+
+Můžete si to představit jako "pohled skrze okno vašeho dalšího já", místo vašeho starého výhledu.
+
+Pamatujte ale, že toto "nové já" a i to "předchozí" jsou obě platná a stále skutečná. Vždy existovala, protože VY jste VŠÍM. Vaše existence je nekonečná.
+
+"Přepínání" mezi realitami je tedy o **změně perspektivy** či **pohledu** odkud se na danou část VŠEHO, CO JEST, díváte.
+
+Když začnete sami sebe vnímat jako vše, **neztrácíte tím svou identitu**. Naopak, **rozšiřujete** ji o VŠE OSTATNÍ.
+
+## Jak se vypořádat s náročnými situacemi
+
+Nejdříve se ujistěte, že o dané věci přemýšlíte jako o *výzvě* spíše než o *problému*. Problémy už ze samotné definice naznačují, že je obtížné je vyřešit. Navíc právě způsob, jakým si **zvolíte** definovat svou realitu, určuje výsledek dané zkušenosti!
+
+Následně si představte verzi reality, kterou byste chtěli zažívat. Ujistěte se, že jste do ní zahrnuli i sami sebe. Přesněji řečeno, představte si vaše *ideální* já - jak by podle vás vypadalo. Poté jej vsaďte do oné náročné situace ve své představivosti a **sledujte**, jak ji vyřeší.
+
+Pak toto chování prostě **imitujte**!
+
+Zachovejte se stejně, jako toto *ideální já*, když bylo konfrontováno s onou překážkou.
+
+Pamatujte si, že vše, co potřebujete vědět, abyste se stali svým vysněným já, je vám v každý moment přístupné.
