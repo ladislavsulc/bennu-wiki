@@ -3,7 +3,7 @@ module.exports = {
     title: 'Bennu Wiki',
     description: 'Přehled učení nové energie. Poznejte své skutečné Já.',
     head: [
-        ['link', { rel: 'icon', href: '/favicon.png' }],
+        ['link', { rel: 'icon', href: './public/favicon.png' }],
         ['link', { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.3/css/uikit.min.css' }],
         ['script', { src: 'https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.3/js/uikit.min.js' }],
         ['script', { src: 'https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.3/js/uikit-icons.min.js' }]

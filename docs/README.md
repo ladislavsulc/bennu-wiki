@@ -19,7 +19,7 @@ footer: Copyright © 2019, Bennu.cz. Vytvořil Ladislav Šulc.
         <p>
             Líbí se vám tento projekt i magazín <a href="https://www.bennu.cz" class="uk-link-text" target="_blank">Bennu.cz</a>? Přispějte prosím na jejich rozvoj i provoz. Nebo je alespoň sdílejte těm, kterým si myslíte, že poslouží. Děkujeme.
         </p>
-        <p>Číslo účtu: 51-6885910227/0100 (KB), <a href="https://www.paypal.me/ladislavsulc" class="uk-link-text" target="_blank">Paypal</a></p>
-        <a href="https://www.bennu.cz/prispet/" class="uk-button uk-button-secondary">Přispět</a>
+        <p>Číslo účtu: 51-6885910227/0100 (KB) nebo <a href="https://www.paypal.me/ladislavsulc" class="uk-link-text" target="_blank">Paypal</a> či Bitcoin: <code>3Ay5QDP1WxCm3Az6rmuiPiFJBPChUo8Loc</code></p>
+        <a href="https://www.bennu.cz/prispet/" class="uk-button uk-button-secondary" target="_blank">Přispět</a>
     </div>
 </section>
