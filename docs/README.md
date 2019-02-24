@@ -1,22 +1,25 @@
 ---
 home: true
 heroImage: /bennu-wiki-logo.svg
-actionText: Prohlédnout
+actionText: Chci vědět víc
 actionLink: /bashar/
 features:
-- title: Simplicity First
-  details: Minimal setup with markdown-centered project structure helps you focus on writing.
-- title: Vue-Powered
-  details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
-- title: Performant
-  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-footer: MIT Licensed | Copyright © 2018-present Channelers.net
+- title: Studna moudrosti
+  details: Prozkoumejte učení bytostí vyšších dimenzí v přehledné formě. Bashar, Abraham. Postupně budou přidány další.
+- title: Vždy s sebou
+  details: Naše wiki je optimalizována i pro mobilní zařízení. A navíc je extrémně rychlá. Tady čekat nemusíte.
+- title: Rozlišujte
+  details: Uvedené informace slouží pro osobní duchovní rozvoj. Používejte svou intuici, srdce i rozum a nic nepřijímejte jako neměnný fakt.
+footer: Copyright © 2019, Bennu.cz. Vytvořil Ladislav Šulc.
 ---
 
-<h2 class="uk-text-center uk-margin-large-top">Podpořit projekty Bennu.cz</h2>
-<div class="uk-container uk-container-small uk-width-xlarge uk-text-center">
-    <p>
-        Officia laborum ea deserunt tempor aliquip et eiusmod voluptate ad magna excepteur. Veniam cupidatat sint aute reprehenderit ipsum et reprehenderit ea.
-    </p>
-    <a href="#" class="uk-button uk-button-secondary">Přispět</a>
-</div>
+<section class="uk-section uk-section-muted uk-margin-top">
+    <h2 class="uk-text-center">Podpořit projekty Bennu.cz</h2>
+    <div class="uk-container uk-container-small uk-width-xlarge uk-text-center">
+        <p>
+            Líbí se vám tento projekt i magazín <a href="https://www.bennu.cz" class="uk-link-text" target="_blank">Bennu.cz</a>? Přispějte prosím na jejich rozvoj i provoz. Nebo je alespoň sdílejte těm, kterým si myslíte, že poslouží. Děkujeme.
+        </p>
+        <p>Číslo účtu: 51-6885910227/0100 (KB), <a href="https://www.paypal.me/ladislavsulc" class="uk-link-text" target="_blank">Paypal</a></p>
+        <a href="https://www.bennu.cz/prispet/" class="uk-button uk-button-secondary">Přispět</a>
+    </div>
+</section>

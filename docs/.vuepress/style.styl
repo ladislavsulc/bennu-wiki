@@ -16,12 +16,24 @@ h2
 h3
     color: #222222
 
-h2
+h2:not(.home h2)
 h3
     font-weight: 600
 
+h4
+.uk-h4
+blockquote
+    color: #777777
+
 em
     color: $accentColor
+
+/* Link */
+.uk-link-text a:hover
+a.uk-link-text:hover
+    color: #111111
+
+
 
 /* Hero */
 .home .hero h1
@@ -33,6 +45,7 @@ em
 
 .home .hero .description
     margin: 0.5rem auto 3rem
+    max-width 40rem
 
 .home .features
     border-top: none
@@ -46,13 +59,21 @@ em
     &:hover
         text-decoration: none 
 
-
+.home h2
+.home .footer
+    border-bottom 0
+    border-top 0
 
 .wide-container .content:not(.custom)
     max-width: 1170px
 
 .nav-item a:hover
     text-decoration: none
+
+
+/* FOOTER */
+.footer
+    font-size: 14px
 
 
 /* Table */
@@ -68,5 +89,9 @@ td
 tr:nth-child(2n)
     background-color: #fff
 
+
+/* Buttons */
+.uk-button
+    border-radius: 5px
 
 
