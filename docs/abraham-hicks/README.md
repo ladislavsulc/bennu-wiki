@@ -1,7 +1,7 @@
 ---
 meta:
   - name: description
-    content: Abraham Hicks česky - přehled základních informací a konceptů mimozemšťana Bashara
+    content: Abraham Hicks česky - přehled základních informací a konceptů Abraham Hicks
 ---
 
 # Abraham Hicks
