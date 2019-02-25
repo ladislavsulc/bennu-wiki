@@ -11,11 +11,10 @@ module.exports = {
         ['link', { rel: 'icon', href: '/favicon.png' }],
         ['meta', { prefix: ogprefix, property: 'og:title', content: title }],
         ['meta', { prefix: ogprefix, property: 'twitter:title', content: title }],
-        ['meta', { prefix: ogprefix, property: 'og:type', content: 'article' }],
+        ['meta', { prefix: ogprefix, property: 'og:type', content: 'website' }],
         ['meta', { prefix: ogprefix, property: 'og:url', content: 'https://wiki.bennu.cz' }],
         ['meta', { prefix: ogprefix, property: 'og:description', content: description }],
-        ['meta', { prefix: ogprefix, property: 'og:image', content: 'https://wiki.bennu.cz/assets/img/bennu-wiki-logo.png' }],
-        ['meta', { prefix: ogprefix, property: 'og:article:author', content: author }],
+        ['meta', { prefix: ogprefix, property: 'og:image', content: 'https://wiki.bennu.cz/bennu-wiki-logo.png' }],
         ['link', { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.3/css/uikit.min.css' }],
         ['script', { src: 'https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.3/js/uikit.min.js' }],
         ['script', { src: 'https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.3/js/uikit-icons.min.js' }]
