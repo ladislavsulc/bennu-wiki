@@ -4,12 +4,12 @@ heroImage: /bennu-wiki-logo.svg
 actionText: Chci vědět víc
 actionLink: /bashar/
 features:
-- title: Studna moudrosti
-  details: Prozkoumejte učení bytostí vyšších dimenzí v přehledné formě. Bashar, Abraham. Postupně budou přidány další.
-- title: Vždy s sebou
-  details: Naše wiki je optimalizována i pro mobilní zařízení. A navíc je extrémně rychlá. Tady čekat nemusíte.
-- title: Rozlišujte
-  details: Uvedené informace slouží pro osobní duchovní rozvoj. Používejte svou intuici, srdce i rozum a nic nepřijímejte jako neměnný fakt.
+  - title: Studna moudrosti
+    details: Prozkoumejte učení bytostí vyšších dimenzí v přehledné formě. Bashar, Abraham. Postupně budou přidány další.
+  - title: Vždy s sebou
+    details: Naše wiki je optimalizována i pro mobilní zařízení. A navíc je extrémně rychlá. Tady čekat nemusíte.
+  - title: Rozlišujte
+    details: Uvedené informace slouží pro osobní duchovní rozvoj. Používejte svou intuici, srdce i rozum a nic nepřijímejte jako neměnný fakt.
 footer: Copyright © 2019, Bennu.cz. Vytvořil Ladislav Šulc.
 ---
 

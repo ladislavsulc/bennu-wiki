@@ -15,18 +15,18 @@ module.exports = {
         ['meta', { prefix: ogprefix, property: 'og:url', content: 'https://wiki.bennu.cz' }],
         ['meta', { prefix: ogprefix, property: 'og:description', content: description }],
         ['meta', { prefix: ogprefix, property: 'og:image', content: 'https://wiki.bennu.cz/bennu-wiki-logo.png' }],
-        ['link', { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.3/css/uikit.min.css' }],
-        ['script', { src: 'https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.3/js/uikit.min.js' }],
-        ['script', { src: 'https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.3/js/uikit-icons.min.js' }]
+        ['link', { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.7/css/uikit.min.css' }]
 	],
 	ga: '',
     themeConfig: {
         nav: [
           { text: 'Úvod', link: '/' },
           { text: 'Bashar', link: '/bashar/' },
+          { text: 'Elan', link: '/elan/' },
           { text: 'Abraham', link: '/abraham-hicks/' },
           { text: 'Bennu.cz', link: 'https://www.bennu.cz' }
         ],
         sidebar: 'auto'
-    }
+    },
+    plugins: ['@vuepress/pwa']
 }

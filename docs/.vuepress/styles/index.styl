@@ -1,5 +1,3 @@
-$accentColor = #710FDE
-
 body
     font-size: 18px;
     @media (max-width: 719px)
@@ -12,9 +10,11 @@ h1, h2, h3, h4, h5
 
 h2
     color: #111111
+    font-size: 1.65rem
 
 h3
     color: #222222
+    font-size: 1.35rem
 
 h2:not(.home h2)
 h3
@@ -28,6 +28,9 @@ blockquote
 em
     color: $accentColor
 
+p   
+    margin-top 1em
+
 /* Link */
 .uk-link-text a:hover
 a.uk-link-text:hover
@@ -40,15 +43,16 @@ a.uk-link-text:hover
     margin-bottom 0
 
 .home .hero img
-    max-height: 100px
-    margin: 7rem auto 1.5rem
+    max-width: 200px !important
+    max-height: 100px !important
+    margin: 7rem auto 1.5rem !important
 
 .home .hero .description
     margin: 0.5rem auto 3rem
     max-width 40rem
 
 .home .features
-    border-top: none
+    border-top: none !important
 
 .home .hero .action-button
     border-radius: 5px;
@@ -61,8 +65,8 @@ a.uk-link-text:hover
 
 .home h2
 .home .footer
-    border-bottom 0
-    border-top 0
+    border-bottom 0  !important
+    border-top 0 !important
 
 .wide-container .content:not(.custom)
     max-width: 1170px
@@ -77,13 +81,17 @@ a.uk-link-text:hover
 
 
 /* Table */
+table
+    margin: 2rem 0
+
 tr,
 th,
 td
     border: none
 
 .uk-table-hover tbody tr:hover,
-.uk-table-hover>tr:hover
+.uk-table-hover>tr:hover,
+th
     background: #f7f7f7
 
 tr:nth-child(2n)
