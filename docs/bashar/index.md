@@ -75,7 +75,7 @@ Většina z vás byla vychována v domnění, že to, co vidíme kolem sebe, je 
 
 Ve skutečnosti tato přesvědčení *o realitě* formují naše vnímání. Nečekejte tedy na zážitek nebo zhmotnění něčeho předtím, než tomu uvěříte. Nejprve tomu uvěřte, teprve pak se tak stane.
 
-![Bashar - Diagram přesvědčení](../.vuepress/public/bashar-beliefs-diagram.png)
+![Bashar - Diagram přesvědčení](../.vitepress/public/bashar-beliefs-diagram.png)
 
 1. Vaše **přesvědčení** určují vaší realitu, kterou **vnímáte**. Jak **ji** vnímáte.
 2. Ihned na to automaticky (a často podvědomě) toto vaše **vnímání** reality **intepretujete**. Znamená to, že (libovolně) přiřazujete věcem význam, projektujete a někdy až "podsouváte" vašemu **vnímání** reality svůj **výklad**.
