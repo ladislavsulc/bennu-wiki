@@ -10,9 +10,7 @@ meta:
 
 Podobně jako Bashar, Elan pochází z civilizace Essasani. Channelované informace o tom, jak si tvořit svou realitu a o její povaze nám přináší Andrew. Ačkoli povaha moudrosti pochází z podobného základu jako ta od Bashara, dozvídáme se i nové, specifičtější koncepty i perspektivy, které lze prakticky aplikovat v našem životě.
 
-## Ústřední koncepty Elana
-
-### Rozhodování a moc přítomnosti
+## Rozhodování a moc přítomnosti
 
 Jelikož je přítomnost výsledkem přítomného okamžiku a ne minulosti, v každém tomto okamžiku se „**rozhodujeme**“ kdo a kým skutečně jsme – a přesně tak se ihned STANE.
 
@@ -22,7 +20,7 @@ A proto, pokud si něco přejete, můžete si zvolit **delší cestu** (klasick�
 
 Můžete si ale zvolit i **kratší cestu** a jednoduše se **rozhodnout**, že je tomu tak již NYNÍ. Bez nutnosti potřebných kroků nebo kritérií, abyste se tam „dostali“. Pokud tomuto rozhodnutí **důvěřujete** a **jednáte** podle něj – realita nemá jinou možnost, než se tomu v PŘÍTOMNÉM OKAMŽIKU přizpůsobit.
 
-### Trvejte na svém rozhodnutí
+## Trvejte na svém rozhodnutí
 
 V této části „procesu“ se většina lidí zasekne. Jakmile se jednou **rozhodnete**, že jste NYNÍ takoví, jako si přejete a ve vaší realitě se objeví něco, co tomu rozporuje, začnete být zklamaní. „Tak to moje rozhodnutí se neujalo, zdá se, že asi vážně takový/taková nejsem.“
 
@@ -36,7 +34,7 @@ Příklad: Pokud se rozhodnete, že (chcete být) jste velice populární osobno
 
 V rámci procesu **„vytrvání na rozhodnutí“** vždy využívejte realitu kolem sebe jako posilovač vašeho nového rozhodnutí. Postupně se totiž dostanete do bodu, kdy jej svět kolem vás začne plně reflektovat.
 
-### Přesvědčení a „to, co je přímo před vámi“
+## Přesvědčení a „to, co je přímo před vámi“
 
 | Příčina      | => | Opožděný výsledek    |
 |--------------|----|----------------------|
@@ -53,7 +51,7 @@ Neznamená to ale, že se nové přesvědčení neuchytilo. Jeho echo se k vám 
 
 **Závěr:** Ignorujte důkazy starého přesvědčení a hledejte ty v souladu s vaším novým, **posilujícím**.
 
-### Volíte si z již existujících možností
+## Volíte si z již existujících možností
 
 Jste nekonečnou bytostí, která zažívá „konečnost“ času a prostoru, tudíž všechny možné scénáře nebo „verze“ toho, jaký by váš život „mohl“ být, **již existují**. Každý z nich je hologramem, můžete o nich uvažovat jako o „potenciálních“ nebo „možných“ realitách. Všechny existují zároveň, právě teď.
 
@@ -63,7 +61,7 @@ Je to jako jít do obchodu s delikatesami, kde vidíte jednotlivé chody za skle
 
 Vyberte si ze všech již existujících možností tu verzi reality, kterou preferujete. Učiníte tak zaujetím stavu bytí oné vybrané verze, abyste ji zdůraznili a přivedli do vašeho tady a teď. „Zaujetím stavu“ se rozumí **rozhodnutí se**, kterou verzi reality chcete zažívat. Pak tomuto rozhodnutí **důvěřujte** a i na základě něj **jednejte**.
 
-### Vaše činy jsou odrazem vašich přesvědčení
+## Vaše činy jsou odrazem vašich přesvědčení
 
 Připomeňme si jednoduchou formuli, která reflektuje pravidla manifestace vaší reality.
 
