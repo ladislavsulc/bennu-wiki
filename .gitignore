@@ -15,4 +15,4 @@ pids
 node_modules
 
 # vuepress build output
-docs/.vuepress/dist
+docs/.vitepress/dist
